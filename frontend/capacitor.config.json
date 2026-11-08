@@ -1,0 +1,9 @@
+{
+  "appId": "ru.zhurnal.app",
+  "appName": "Журнал",
+  "webDir": "dist",
+  "server": {
+    "url": "http://192.168.0.150:5173",
+    "cleartext": true
+  }
+}
